@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmadeepak98" alt="sharmadeepak98" /></a> </p>
 
-- 📫 How to reach me **076bct029@ioepc.edu.np**
+- 📫 How to reach me **sharma.deepak06127@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
